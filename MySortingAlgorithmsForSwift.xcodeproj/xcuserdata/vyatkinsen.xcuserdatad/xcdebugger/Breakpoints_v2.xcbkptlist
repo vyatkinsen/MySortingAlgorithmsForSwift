@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F2E74A46-85F1-4A9D-AEFB-6890FBE96A83"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "442DF009-4216-4367-9E7F-7B6BC38630CB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MySortingAlgorithmsForSwift/MergeSort.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "mergeSort(_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "442DF009-4216-4367-9E7F-7B6BC38630CB - ffa274a839dd2ebe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MySortingAlgorithmsForSwift.mergeSort&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Comparable&gt;(Swift.Array&lt;&#x3c4;_0_0&gt;) -&gt; Swift.Array&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "MySortingAlgorithmsForSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vyatkinsen/Developer/MySortingAlgorithmsForSwift/MySortingAlgorithmsForSwift/MergeSort.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "442DF009-4216-4367-9E7F-7B6BC38630CB - ffa274a839dd2ebe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MySortingAlgorithmsForSwift.mergeSort&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Comparable&gt;(Swift.Array&lt;&#x3c4;_0_0&gt;) -&gt; Swift.Array&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "MySortingAlgorithmsForSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vyatkinsen/Developer/MySortingAlgorithmsForSwift/MySortingAlgorithmsForSwift/MergeSort.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

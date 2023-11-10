@@ -1,11 +1,5 @@
-//
-//  main.swift
-//  MySortingAlgorithmsForSwift
-//
-//  Created by Арсений Вяткин on 10.11.2023.
-//
-
 import Foundation
 
-print("Hello, World!")
+let arr1 = [55, 11, 22, 44, 88]
+print(mergeSort(arr1))
 
