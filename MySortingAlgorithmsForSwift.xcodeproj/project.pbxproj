@@ -11,6 +11,7 @@
 		597088002AFE61750027D540 /* MergeSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 597087FF2AFE61750027D540 /* MergeSort.swift */; };
 		597088022AFE6A4F0027D540 /* BubbleSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 597088012AFE6A4F0027D540 /* BubbleSort.swift */; };
 		597088062AFE79CD0027D540 /* InsertionSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 597088052AFE79CD0027D540 /* InsertionSort.swift */; };
+		597088082AFE84830027D540 /* QuickSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 597088072AFE84830027D540 /* QuickSort.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		597087FF2AFE61750027D540 /* MergeSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSort.swift; sourceTree = "<group>"; };
 		597088012AFE6A4F0027D540 /* BubbleSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BubbleSort.swift; sourceTree = "<group>"; };
 		597088052AFE79CD0027D540 /* InsertionSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertionSort.swift; sourceTree = "<group>"; };
+		597088072AFE84830027D540 /* QuickSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickSort.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 			children = (
 				597087FF2AFE61750027D540 /* MergeSort.swift */,
 				597087F82AFE60290027D540 /* main.swift */,
+				597088072AFE84830027D540 /* QuickSort.swift */,
 				597088052AFE79CD0027D540 /* InsertionSort.swift */,
 				597088012AFE6A4F0027D540 /* BubbleSort.swift */,
 			);
@@ -130,6 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				597088002AFE61750027D540 /* MergeSort.swift in Sources */,
+				597088082AFE84830027D540 /* QuickSort.swift in Sources */,
 				597088062AFE79CD0027D540 /* InsertionSort.swift in Sources */,
 				597087F92AFE60290027D540 /* main.swift in Sources */,
 				597088022AFE6A4F0027D540 /* BubbleSort.swift in Sources */,

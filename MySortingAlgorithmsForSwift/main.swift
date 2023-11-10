@@ -19,3 +19,6 @@ let array10 = [-25, 12, -37, 18, -33, 29, -22, 39, -14, 32]
 
 //let sortedArr = insertionSort(array2)
 //print(sortedArr)
+
+//let sortedArr = quickSort(array2)
+//print(sortedArr)
